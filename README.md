@@ -1,1 +1,7 @@
-# livro_CPP-Orange
+# Livro: Linguagem C++ - Orange Book
+
+Esta obra introduz, de forma prática e dirigida, as bases de programação com a linguagem C++. Foi idealizada para ser usada preferencialmente em sala de aula (laboratório com prática de programação) de cursos tecnológicos, técnicos ou de treinamento empresarial, obviamente com o acompanhamento de um professor ou instrutor habilitado para ampliar os conceitos expostos e direcionar os exercícios de fixação, que devem ser resolvidos pelo aluno ou treinando.
+
+No decorrer do estudo e da apresentação da linguagem C++, o leitor terá contato com mais de 150 exemplos de programação que demonstram vários recursos da linguagem. Em alguns capítulos, uma lista de exercícios é forne-cida com o objetivo de auxiliar a fixação de determinado tema. Os capítulos que não possuem exercícios de fixação são complementares. Nesse sentido, os capítulos com exercícios justificam o fato de o livro ser um guia prático de desenvolvimento; os que não possuem justificam o fato de ser um guia prático de orientação.
+
+Por seu conteúdo didático, pode ser usada de maneira gradativa, a fim de acomodar as necessidades do professor/instrutor, distribuindo o conteúdo de aula a ser ministrado no período letivo e na carga horária necessária. Parte-se de um ponto básico mínimo e avança-se até abordar as noções iniciais de programação orientada a objetos. Não é o objetivo aprofundar-se na progra-mação orientada a objetos, mas introduzir o tema. Para atender a esse objeti-vo, o livro encontra-se dividido em onze capítulos e dois apêndices
