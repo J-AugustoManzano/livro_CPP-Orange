@@ -15,10 +15,10 @@ int main(void)
   cout << "\nInforme dados da matriz A" << endl;
   for (I = 0; I <= 2; I ++)
     {
-      cout << "\nColuna ...: " << I + 1 << endl;
+      cout << "\nLinha ....: " << I + 1 << endl
       for (J = 0; J <= 2; J ++)
         {
-          cout << "Linha ....: " << J + 1 << " -> ";
+          cout << "Coluna ...: " << J + 1 << " -> ";
           cin >> A[I][J];
         }
     }
